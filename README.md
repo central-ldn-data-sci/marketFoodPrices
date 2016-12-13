@@ -3,10 +3,12 @@ Repository for meetup looking at link between recipe ingredient popularity and m
 
 ---
 
-# Repository Data
+# Repository Data:
 
 • food.producer.prices.csv - CSV containing annual producer prices of a number of crops taken from http://www.fao.org/faostat/en/#data
+
 • recipelist.rds - R object list of lists that contains 11235 scraped recipes from the bbc food website. Within this are variables for the ingredients and the date of the recipe creation (along with the actual recipes if interested)
+
 • recipelist.json - JSON file containing the same data as the above R object
 
 ---
